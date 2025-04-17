@@ -1,5 +1,5 @@
 const power = (num) => {
-  return num * 10
+  return num * num
 }
 
 console.log(power(10));
